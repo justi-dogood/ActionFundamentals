@@ -20,7 +20,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 
 ## 📆 Agenda
 
-### Day 1: 🚀 Getting started (but slowly)
+### Day 1: 🚀 Getting started (but slowly) (and slower)
 
 - [ ] Introduction and Icebreaker
 - [ ] GitHub Actions Fundamentals
